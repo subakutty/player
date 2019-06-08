@@ -1,7 +1,6 @@
 a=int(input())
 b=int(input())
-c=int(input())
-d=a*b*c
+d=a*b
 if(d%2==0):
     print("even")
 else:
